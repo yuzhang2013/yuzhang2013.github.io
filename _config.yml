@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Yummy Theme # ex. I m Chuan
+title: Yu's Web portal # ex. I m Chuan
 name: Yu Zhang # ex. DONGChuan
-email: my_email_address@lalala.com
-location: My location # ex. Nice, France
-company: MyCompany
-company_url: my_company_website
+email: yuzhang.nwpu@gmail.com
+location: Haikou,China # ex. Nice, France
+company: Hainan University
+company_url: www.hainu.edu.cn
 github_url: my_github_url # ex. https://github.com/DONGChuan
 description: description_of_your_web_site
 favicon: favicon.png # Image must be in assets/images
